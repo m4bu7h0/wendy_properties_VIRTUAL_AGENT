@@ -1,0 +1,46 @@
+﻿@model wendy_properties_VA_WEBUI.Models.SearchListingVW
+@{
+    ViewBag.Title = "Wendy Properties | Search";
+}
+
+<h2>Search</h2>
+<form method="get" action="GetListings">
+    <table>
+        <tr>
+            <td><b>Suburb:  </b></td>
+
+            <td>
+                @Html.DropDownListFor(
+                    s => s.Suburb, Model.Suburbs, 
+                    "Select...")
+            </td>
+        </tr>
+        <tr>
+            <td><b>Bedrooms: </b></td>
+            <td>
+                @Html.DropDownListFor(
+                    s=>s.BedroomsNumber,
+                    Model.Bedrooms,
+                    "Select...")
+            </td>
+        </tr>
+        <tr>
+            <td><b>Price Range:</b></td>
+            <td>
+                @Html.DropDownListFor(
+                    s => s.PriceRange,
+                    Model.PriceRanges,
+                    "Select...")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Search" />             
+            </td>
+            <td>
+                <input type="button" value="Cancel"
+                            onclick="window.location.href = '@Url.Action("Index", "Home")';"/>
+            </td>
+        </tr>
+    </table>
+</form>

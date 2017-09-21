@@ -1,0 +1,42 @@
+﻿@model IEnumerable<wendy_properties_VA_DOMAIN.business.BLListing>
+@{
+   
+}
+
+<h2>Search Results: @ViewData["Suburb"]</h2>
+<table border=1>
+
+    @foreach (var sl in Model) {
+
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            @sl.MarketingHeading
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            @sl.Description
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <img src="@sl.ImageString" width="120" height="80" />
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>@sl.Suburb</td>
+                    </tr>
+                    <tr>
+                        <td><b>R @sl.Price</b></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    }
+</table>
+

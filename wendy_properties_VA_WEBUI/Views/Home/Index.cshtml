@@ -1,0 +1,58 @@
+﻿@model wendy_properties_VA_WEBUI.Models.FeaturedListingVM
+@{
+    ViewBag.Title = "Wendy Properties | Home";
+}
+
+<div id="intro">
+    Welcome to Wendy Properties Virtual Agent. <br/>
+    It's nice  to have you here.
+</div>
+
+<div id="featured">
+
+    <b><h2>Featured Listings</h2></b>
+    <table border=1>
+
+        @foreach (var fl in Model.FeaturedListings) {
+
+            <tr>
+                <td>
+                    <table>
+                        <tr>
+                            <td>
+                                @fl.MarketingHeading
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                @fl.Description
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <img src="@fl.ImageString" width="120" height="80"/>
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>@fl.Suburb</td>
+                        </tr>
+                        <tr>
+                            <td><b>R @fl.Price</b></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+<!-- modal placeholder-->
+<div id='myModal' class='modal fade in'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='myModalContent'></div>
+        </div>
+    </div>
+</div>

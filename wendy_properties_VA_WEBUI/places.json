@@ -1,0 +1,707 @@
+﻿{
+  "version": 3,
+  "status": "ok",
+  "response": {
+    "data": [
+      {
+        "address": "Suncoast Blvd",
+        "category_ids": [ 324, 436, 107 ],
+        "category_labels": [
+          [ "Social", "Entertainment", "Casinos and Gaming" ],
+          [ "Travel", "Lodging", "Hotels and Motels" ],
+          [ "Landmarks" ]
+        ],
+        "country": "za",
+        "email": "suncoast.contactus@tsogosun.com",
+        "factual_id": "b7d61991-0583-4c4a-8dfb-40b67820d5b2",
+        "fax": "031 328 3012",
+        "hours": {
+          "sunday": [ [ "00:00", "23:59" ] ],
+          "saturday": [ [ "00:00", "23:59" ] ],
+          "tuesday": [ [ "00:00", "23:59" ] ],
+          "friday": [ [ "00:00", "23:59" ] ],
+          "thursday": [ [ "00:00", "23:59" ] ],
+          "wednesday": [ [ "00:00", "23:59" ] ],
+          "monday": [ [ "00:00", "23:59" ] ]
+        },
+        "hours_display": "Open Daily 00:00-23:59",
+        "latitude": -29.835795,
+        "locality": "Durban",
+        "longitude": 31.034137,
+        "name": "Suncoast Casino & Entertainment World",
+        "neighborhood": [ "Golden Mile" ],
+        "po_box": "P.O. Box 10132",
+        "post_town": "Stamford Hill",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 328 3000",
+        "website": "http://www.suncoastcasino.co.za/"
+      },
+      {
+        "address": "44 Isaiah Ntshangase Rd",
+        "category_ids": [ 213 ],
+        "category_labels": [ [ "Businesses and Services", "Engineering" ] ],
+        "country": "za",
+        "email": "reception@mmsdurban.co.za",
+        "factual_id": "a70eaccf-e45f-42dd-8d5f-01b2efd815b8",
+        "hours": {
+          "tuesday": [ [ "8:00", "17:00" ] ],
+          "friday": [ [ "8:00", "17:00" ] ],
+          "thursday": [ [ "8:00", "17:00" ] ],
+          "wednesday": [ [ "8:00", "17:00" ] ],
+          "monday": [ [ "8:00", "17:00" ] ]
+        },
+        "hours_display": "Mon-Fri 8:00-17:00",
+        "latitude": -29.82893,
+        "locality": "Durban",
+        "longitude": 31.030326,
+        "name": "Moses Mabhida Stadium",
+        "neighborhood": [ "Stamford Hill", "Morningside" ],
+        "post_town": "Stamford Hill",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 582 8222",
+        "website": "http://www.mmstadium.com"
+      },
+      {
+        "address": "45 Bram Fischer Rd",
+        "category_ids": [ 465 ],
+        "category_labels": [ [ "Businesses and Services", "Events and Event Planning", "Convention Centers" ] ],
+        "country": "za",
+        "email": "davidf@icc.co.za",
+        "factual_id": "e97fdc17-db0d-4f2b-80a3-dec7b8bbb572",
+        "fax": "031 360 1005",
+        "hours": {
+          "sunday": [ [ "7:00", "18:00" ] ],
+          "saturday": [ [ "7:00", "17:00" ] ],
+          "tuesday": [ [ "18:00", "19:00" ] ],
+          "friday": [
+            [ "6:00", "13:00" ],
+            [ "15:00", "20:00" ]
+          ],
+          "thursday": [
+            [ "6:00", "14:00" ],
+            [ "16:00", "19:00" ]
+          ],
+          "wednesday": [ [ "6:00", "19:00" ] ],
+          "monday": [ [ "6:00", "16:00" ] ]
+        },
+        "hours_display": "Mon 6:00-16:00; Tue 18:00-19:00; Wed 6:00-19:00; Thu 6:00-14:00, 16:00-19:00; Fri 6:00-13:00, 15:00-20:00; Sat 7:00-17:00; Sun 7:00-18:00",
+        "latitude": -29.852354,
+        "locality": "Durban",
+        "longitude": 31.029913,
+        "name": "Durban International Convention Centre",
+        "neighborhood": [ "Addington" ],
+        "po_box": "P.O. Box 155",
+        "post_town": "Addington",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 360 1000",
+        "website": "http://www.icc.co.za"
+      },
+      {
+        "address": "1 King Shaka Ave",
+        "category_ids": [ 319, 347 ],
+        "category_labels": [
+          [ "Social", "Entertainment", "Amusement Parks" ],
+          [ "Social", "Food and Dining", "Restaurants" ]
+        ],
+        "country": "za",
+        "email": "mkt@ushakamarineworld.co.za",
+        "factual_id": "dfcefc2d-3743-470e-97b7-150430948d0b",
+        "hours": {
+          "sunday": [ [ "9:00", "17:00" ] ],
+          "saturday": [ [ "9:00", "17:00" ] ],
+          "tuesday": [ [ "9:00", "17:00" ] ],
+          "friday": [ [ "9:00", "17:00" ] ],
+          "thursday": [ [ "9:00", "17:00" ] ],
+          "wednesday": [ [ "9:00", "17:00" ] ],
+          "monday": [ [ "9:00", "17:00" ] ]
+        },
+        "hours_display": "Open Daily 9:00-17:00",
+        "latitude": -29.867623,
+        "locality": "Durban",
+        "longitude": 31.045539,
+        "name": "uShaka Marine World",
+        "neighborhood": [ "Point" ],
+        "post_town": "Point",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 328 8000",
+        "website": "http://www.ushakamarineworld.co.za"
+      },
+      {
+        "category_ids": [ 406 ],
+        "category_labels": [ [ "Sports and Recreation", "Stadiums and Arenas" ] ],
+        "country": "za",
+        "factual_id": "e251ded7-fd8a-499e-be27-e3673f12ddcd",
+        "latitude": -29.824903,
+        "locality": "Durban",
+        "longitude": 31.029754,
+        "name": "Kings Park Stadium",
+        "neighborhood": [ "Essenwood", "Morningside" ],
+        "post_town": "Stamford Hill",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 582 8222"
+      },
+      {
+        "address": "200 Florida Rd",
+        "category_ids": [ 358, 363, 355 ],
+        "category_labels": [
+          [ "Social", "Food and Dining", "Restaurants", "Italian" ],
+          [ "Social", "Food and Dining", "Restaurants", "Pizza" ],
+          [ "Social", "Food and Dining", "Restaurants", "Fast Food" ]
+        ],
+        "country": "za",
+        "email": "bookings@spiga.co.za",
+        "factual_id": "0b7bbc51-e915-419f-b7c1-0e27a20b76b3",
+        "fax": "031 303 9512",
+        "hours": {
+          "sunday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ],
+          "saturday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ],
+          "tuesday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ],
+          "friday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ],
+          "thursday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ],
+          "wednesday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ],
+          "monday": [
+            [ "00:00", "1:00" ],
+            [ "6:00", "23:59" ]
+          ]
+        },
+        "hours_display": "Open Daily 00:00-1:00, 6:00-23:59",
+        "latitude": -29.832025,
+        "locality": "Durban",
+        "longitude": 31.015898,
+        "name": "Spiga D'oro",
+        "neighborhood": [ "Morningside", "Essenwood" ],
+        "post_town": "Morningside",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 303 9511",
+        "website": "http://www.spiga.co.za/"
+      },
+      {
+        "address": "137 Lower Marine Parade",
+        "category_ids": [ 349, 312, 334 ],
+        "category_labels": [
+          [ "Social", "Food and Dining", "Restaurants", "Barbecue" ],
+          [ "Social", "Bars" ],
+          [ "Social", "Entertainment", "Night Clubs" ]
+        ],
+        "country": "za",
+        "email": "info@joecools.co.za",
+        "factual_id": "faac806d-49e2-4fc7-a225-799096d3abca",
+        "fax": "031 332 2964",
+        "hours": {
+          "sunday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ],
+          "saturday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ],
+          "tuesday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ],
+          "friday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ],
+          "thursday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ],
+          "wednesday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ],
+          "monday": [
+            [ "00:00", "5:00" ],
+            [ "8:00", "23:59" ]
+          ]
+        },
+        "hours_display": "Open Daily 00:00-5:00, 8:00-23:59",
+        "latitude": -29.849958,
+        "locality": "Durban",
+        "longitude": 31.038054,
+        "name": "Joe Cool's",
+        "neighborhood": [ "North Beach", "City Centre" ],
+        "po_box": "P.O. Box 2212",
+        "post_town": "Westville",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 332 9697",
+        "website": "http://www.joecools.co.za"
+      },
+      {
+        "address": "151155 Victoria St",
+        "category_ids": [ 169 ],
+        "category_labels": [ [ "Retail", "Shopping Centers and Malls" ] ],
+        "country": "za",
+        "email": "info@victoriastreetmarket.co.za",
+        "factual_id": "a5eaecfc-adb5-4c4d-b62e-8def27a4be9b",
+        "fax": "031 306 4025",
+        "hours": {
+          "sunday": [
+            [ "00:00", "2:00" ],
+            [ "9:00", "23:59" ]
+          ],
+          "saturday": [ [ "9:00", "23:59" ] ],
+          "tuesday": [ [ "8:00", "17:00" ] ],
+          "friday": [ [ "8:00", "17:00" ] ],
+          "thursday": [ [ "8:00", "17:00" ] ],
+          "wednesday": [ [ "8:00", "17:00" ] ],
+          "monday": [
+            [ "00:00", "2:00" ],
+            [ "8:00", "17:00" ]
+          ]
+        },
+        "hours_display": "Mon 00:00-2:00, 8:00-17:00; Tue-Fri 8:00-17:00; Sat 9:00-23:59; Sun 00:00-2:00, 9:00-23:59",
+        "latitude": -29.85722,
+        "locality": "Durban",
+        "longitude": 31.015011,
+        "name": "Victoria Street Market",
+        "neighborhood": [ "Durban", "Kingsmead" ],
+        "postcode": "4037",
+        "region": "KwaZulu-Natal",
+        "tel": "031 306 4021",
+        "website": "http://www.indianmarket.co.za/"
+      },
+      {
+        "address": "12-14 Walnut Rd",
+        "category_ids": [ 436 ],
+        "category_labels": [ [ "Travel", "Lodging", "Hotels and Motels" ] ],
+        "country": "za",
+        "email": "durhitwsal@hilton.com",
+        "factual_id": "db4ffe43-bab0-426d-8f32-5f5c0f483213",
+        "fax": "031 336 8200",
+        "hours": {
+          "sunday": [ [ "00:00", "23:59" ] ],
+          "saturday": [ [ "00:00", "23:59" ] ],
+          "tuesday": [ [ "00:00", "23:59" ] ],
+          "friday": [ [ "00:00", "23:59" ] ],
+          "thursday": [ [ "00:00", "23:59" ] ],
+          "wednesday": [ [ "00:00", "23:59" ] ],
+          "monday": [ [ "00:00", "23:59" ] ]
+        },
+        "hours_display": "Open Daily 00:00-23:59",
+        "latitude": -29.852948,
+        "locality": "Durban",
+        "longitude": 31.028634,
+        "name": "Hilton Durban",
+        "neighborhood": [ "Durban", "Addington" ],
+        "post_town": "Central",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 336 8100",
+        "website": "http://www.placeshilton.com/durban"
+      },
+      {
+        "address": "150 Avondale Rd",
+        "category_ids": [ 396 ],
+        "category_labels": [ [ "Sports and Recreation", "Race Tracks" ] ],
+        "country": "za",
+        "email": "headoffice@goldcircle.co.za",
+        "factual_id": "90864f1a-3eba-450e-aa65-f59b67b8a0eb",
+        "fax": "031 314 1906",
+        "hours": {
+          "sunday": [
+            [ "11:00", "12:00" ],
+            [ "15:00", "16:00" ]
+          ],
+          "saturday": [ [ "6:00", "19:00" ] ],
+          "tuesday": [
+            [ "8:00", "9:00" ],
+            [ "14:00", "18:00" ]
+          ],
+          "friday": [ [ "4:00", "19:00" ] ],
+          "thursday": [
+            [ "7:00", "13:00" ],
+            [ "15:00", "17:00" ]
+          ],
+          "wednesday": [ [ "4:00", "18:00" ] ],
+          "monday": [
+            [ "6:00", "9:00" ],
+            [ "11:00", "12:00" ],
+            [ "15:00", "18:00" ]
+          ]
+        },
+        "hours_display": "Mon 6:00-9:00, 11:00-12:00, 15:00-18:00; Tue 8:00-9:00, 14:00-18:00; Wed 4:00-18:00; Thu 7:00-13:00, 15:00-17:00; Fri 4:00-19:00; Sat 6:00-19:00; Sun 11:00-12:00, 15:00-16:00",
+        "latitude": -29.840688,
+        "locality": "Durban",
+        "longitude": 31.012001,
+        "name": "Greyville Racecourse",
+        "neighborhood": [ "Essenwood", "Greyville" ],
+        "post_town": "Greyville",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 314 1651"
+      },
+      {
+        "address": "504 Lilian Ngoyi Rd",
+        "category_ids": [ 348, 464, 315 ],
+        "category_labels": [
+          [ "Social", "Food and Dining", "Restaurants", "American" ],
+          [ "Social", "Food and Dining", "Restaurants", "International" ],
+          [ "Social", "Bars", "Sports Bars" ]
+        ],
+        "country": "za",
+        "email": "gmbillys@evokegroupholdings.co.za",
+        "factual_id": "30e9f6a1-740c-4ca8-b631-4091521c8898",
+        "fax": "031 303 5197",
+        "hours": {
+          "sunday": [
+            [ "15:00", "16:00" ],
+            [ "19:00", "20:00" ]
+          ],
+          "saturday": [
+            [ "9:00", "10:00" ],
+            [ "12:00", "23:59" ]
+          ],
+          "tuesday": [
+            [ "16:00", "19:00" ],
+            [ "21:00", "22:00" ]
+          ],
+          "friday": [ [ "13:00", "23:59" ] ],
+          "thursday": [ [ "14:00", "23:00" ] ],
+          "wednesday": [ [ "15:00", "21:00" ] ],
+          "monday": [ [ "14:00", "20:00" ] ]
+        },
+        "hours_display": "Mon 14:00-20:00; Tue 16:00-19:00, 21:00-22:00; Wed 15:00-21:00; Thu 14:00-23:00; Fri 13:00-23:59; Sat 9:00-10:00, 12:00-23:59; Sun 15:00-16:00, 19:00-20:00",
+        "latitude": -29.820959,
+        "locality": "Durban",
+        "longitude": 31.022879,
+        "name": "Billy The Bums",
+        "neighborhood": [ "Morningside" ],
+        "post_town": "Morningside",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 303 1988",
+        "website": "http://www.billythebums.co.za/"
+      },
+      {
+        "address": "Kloof Falls Rd",
+        "category_ids": [ 118 ],
+        "category_labels": [ [ "Landmarks", "Parks" ] ],
+        "country": "za",
+        "factual_id": "ca155df4-7e61-4e39-9aeb-347e1a2cc78c",
+        "hours": {
+          "sunday": [ [ "6:00", "16:00" ] ],
+          "saturday": [ [ "6:00", "16:00" ] ],
+          "tuesday": [ [ "6:00", "19:00" ] ],
+          "friday": [ [ "6:00", "19:00" ] ],
+          "thursday": [ [ "6:00", "19:00" ] ],
+          "wednesday": [ [ "6:00", "19:00" ] ],
+          "monday": [ [ "6:00", "19:00" ] ]
+        },
+        "hours_display": "Mon-Fri 6:00-19:00; Sat-Sun 6:00-16:00",
+        "latitude": -29.765589,
+        "locality": "Durban",
+        "longitude": 30.85277,
+        "name": "Krantzkloof Nature Reserve",
+        "neighborhood": [ "Kloof" ],
+        "post_town": "Kloof",
+        "postcode": "3610",
+        "region": "KwaZulu-Natal",
+        "tel": "031 764 3515",
+        "website": "http://www.kznwildlife.com/"
+      },
+      {
+        "address": "149 Bulwer Rd",
+        "category_ids": [ 347 ],
+        "category_labels": [ [ "Social", "Food and Dining", "Restaurants" ] ],
+        "country": "za",
+        "email": "oliveandoil.glenwood@telkomsa.net",
+        "factual_id": "23ee0adf-8add-437f-84a6-e221946bcdb7",
+        "fax": "031 201 6129",
+        "hours": {
+          "sunday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "21:00" ]
+          ],
+          "saturday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "22:00" ]
+          ],
+          "tuesday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "22:00" ]
+          ],
+          "friday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "22:00" ]
+          ],
+          "thursday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "22:00" ]
+          ],
+          "wednesday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "22:00" ]
+          ],
+          "monday": [
+            [ "12:00", "15:00" ],
+            [ "18:00", "21:00" ]
+          ]
+        },
+        "hours_display": "Mon 12:00-15:00, 18:00-21:00; Tue-Sat 12:00-15:00, 18:00-22:00; Sun 12:00-15:00, 18:00-21:00",
+        "latitude": -29.859406,
+        "locality": "Durban",
+        "longitude": 30.998197,
+        "name": "Olive and Oil - Glenwood",
+        "neighborhood": [ "Glenwood" ],
+        "post_town": "Glenwood",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 201 6146",
+        "website": "http://www.oliveandoil.co.za"
+      },
+      {
+        "address": "237 Florida Rd",
+        "category_ids": [ 361, 363 ],
+        "category_labels": [
+          [ "Social", "Food and Dining", "Restaurants", "Mexican" ],
+          [ "Social", "Food and Dining", "Restaurants", "Pizza" ]
+        ],
+        "country": "za",
+        "email": "tacozulu@telkomsa.net",
+        "factual_id": "7df23b12-2688-410e-b91e-b4af8553ca5e",
+        "hours": {
+          "sunday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ],
+          "saturday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ],
+          "tuesday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ],
+          "friday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ],
+          "thursday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ],
+          "wednesday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ],
+          "monday": [
+            [ "00:00", "3:00" ],
+            [ "11:00", "23:59" ]
+          ]
+        },
+        "hours_display": "Open Daily 00:00-3:00, 11:00-23:59",
+        "latitude": -29.831147,
+        "locality": "Durban",
+        "longitude": 31.01431,
+        "name": "Taco Zulu",
+        "neighborhood": [ "Windermere", "Essenwood" ],
+        "post_town": "Windermere",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 303 9584",
+        "website": "http://www.tacozulu.co.za/"
+      },
+      {
+        "address": "151 Snell Parade",
+        "category_ids": [ 436 ],
+        "category_labels": [ [ "Travel", "Lodging", "Hotels and Motels" ] ],
+        "country": "za",
+        "email": "info@belairesuites.co.za",
+        "factual_id": "2ffe1452-07e4-40c4-8786-243ee690fb3d",
+        "fax": "086 661 4202",
+        "hours": {
+          "sunday": [ [ "00:00", "23:59" ] ],
+          "saturday": [ [ "00:00", "23:59" ] ],
+          "tuesday": [ [ "00:00", "23:59" ] ],
+          "friday": [ [ "00:00", "23:59" ] ],
+          "thursday": [ [ "00:00", "23:59" ] ],
+          "wednesday": [ [ "00:00", "23:59" ] ],
+          "monday": [ [ "00:00", "23:59" ] ]
+        },
+        "hours_display": "Open Daily 00:00-23:59",
+        "latitude": -29.841768,
+        "locality": "Durban",
+        "longitude": 31.035084,
+        "name": "Belaire Suites",
+        "neighborhood": [ "Addington", "Morningside" ],
+        "post_town": "Addington",
+        "postcode": "4056",
+        "region": "KwaZulu-Natal",
+        "tel": "031 332 4485",
+        "website": "http://www.belairesuites.co.za"
+      },
+      {
+        "address": "10 Northway",
+        "category_ids": [ 436 ],
+        "category_labels": [ [ "Travel", "Lodging", "Hotels and Motels" ] ],
+        "country": "za",
+        "email": "reserve@riversidehotel.co.za",
+        "factual_id": "f91144bc-e1c5-4ca4-9dcf-b9d3e0006bab",
+        "fax": "031 563 0611",
+        "hours": {
+          "sunday": [ [ "00:00", "23:59" ] ],
+          "saturday": [ [ "00:00", "23:59" ] ],
+          "tuesday": [ [ "00:00", "23:59" ] ],
+          "friday": [ [ "00:00", "23:59" ] ],
+          "thursday": [ [ "00:00", "23:59" ] ],
+          "wednesday": [ [ "00:00", "23:59" ] ],
+          "monday": [ [ "00:00", "23:59" ] ]
+        },
+        "hours_display": "Open Daily 00:00-23:59",
+        "latitude": -29.806715,
+        "locality": "Durban",
+        "longitude": 31.032707,
+        "name": "Riverside Hotel & Spa",
+        "neighborhood": [ "Durban North" ],
+        "po_box": "P.O. Box 35523",
+        "post_town": "Durban North",
+        "postcode": "4065",
+        "region": "KwaZulu-Natal",
+        "tel": "031 563 0600",
+        "website": "http://www.riversidehotel.co.za"
+      },
+      {
+        "address": "163 Lilian Ngoyi Rd",
+        "category_ids": [ 169 ],
+        "category_labels": [ [ "Retail", "Shopping Centers and Malls" ] ],
+        "country": "za",
+        "factual_id": "31989a36-a498-4119-9ef5-32c5d980c8c6",
+        "hours": {
+          "sunday": [ [ "8:00", "19:00" ] ],
+          "saturday": [ [ "8:00", "19:00" ] ],
+          "tuesday": [ [ "8:00", "19:00" ] ],
+          "friday": [ [ "8:00", "19:00" ] ],
+          "thursday": [ [ "8:00", "19:00" ] ],
+          "wednesday": [ [ "8:00", "19:00" ] ],
+          "monday": [ [ "8:00", "19:00" ] ]
+        },
+        "hours_display": "Open Daily 8:00-19:00",
+        "latitude": -29.831778,
+        "locality": "Durban",
+        "longitude": 31.020191,
+        "name": "Windermere Centre",
+        "neighborhood": [ "Morningside", "Essenwood" ],
+        "post_town": "Morningside",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 312 5959",
+        "website": "http://windermerecentre.com/"
+      },
+      {
+        "address": "1 Bell St",
+        "address_extended": "Unit E5",
+        "category_ids": [ 358 ],
+        "category_labels": [ [ "Social", "Food and Dining", "Restaurants", "Italian" ] ],
+        "country": "za",
+        "email": "mkt@ushakamarineworld.co.za",
+        "factual_id": "889a1ace-d51c-4075-af11-8c23e91fa335",
+        "fax": "031 328 8090",
+        "hours": {
+          "sunday": [ [ "9:00", "21:00" ] ],
+          "saturday": [ [ "9:00", "23:00" ] ],
+          "tuesday": [ [ "9:00", "22:00" ] ],
+          "friday": [ [ "9:00", "23:00" ] ],
+          "thursday": [ [ "9:00", "22:00" ] ],
+          "wednesday": [ [ "9:00", "22:00" ] ],
+          "monday": [ [ "9:00", "22:00" ] ]
+        },
+        "hours_display": "Mon-Thu 9:00-22:00; Fri-Sat 9:00-23:00; Sun 9:00-21:00",
+        "latitude": -29.869569,
+        "locality": "Durban",
+        "longitude": 31.045623,
+        "name": "Ushaka Marine World",
+        "neighborhood": [ "Point" ],
+        "po_box": "P.O. Box 38416",
+        "post_town": "Point",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 328 8000",
+        "website": "http://www.ushakamarineworld.co.za"
+      },
+      {
+        "address": "70 St Thomas Rd",
+        "category_ids": [ 109 ],
+        "category_labels": [ [ "Landmarks", "Gardens" ] ],
+        "country": "za",
+        "email": "reception@dbgt.org.za",
+        "factual_id": "227ef018-fba8-402a-81da-2d10cdd7fca0",
+        "fax": "031 309 1271",
+        "hours": {
+          "sunday": [ [ "9:00", "16:00" ] ],
+          "saturday": [ [ "9:00", "16:00" ] ],
+          "tuesday": [ [ "9:00", "16:00" ] ],
+          "friday": [ [ "9:00", "16:00" ] ],
+          "thursday": [ [ "9:00", "16:00" ] ],
+          "wednesday": [ [ "9:00", "16:00" ] ],
+          "monday": [ [ "10:00", "16:00" ] ]
+        },
+        "hours_display": "Mon 10:00-16:00; Tue-Sun 9:00-16:00",
+        "latitude": -29.84826,
+        "locality": "Durban",
+        "longitude": 31.008741,
+        "name": "Durban Botanic Garden",
+        "neighborhood": [ "Musgrave" ],
+        "po_box": "P.O. Box 3740",
+        "post_town": "Musgrave",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 309 9240",
+        "website": "http://www.durbanbotanicgardens.org.za/"
+      },
+      {
+        "address": "25 Island Cir",
+        "category_ids": [ 169 ],
+        "category_labels": [ [ "Retail", "Shopping Centers and Malls" ] ],
+        "country": "za",
+        "factual_id": "8ae38c9b-1325-4408-bb90-3453f8b198ba",
+        "hours": {
+          "sunday": [ [ "9:00", "14:30" ] ],
+          "saturday": [ [ "9:00", "16:00" ] ],
+          "tuesday": [ [ "8:30", "16:30" ] ],
+          "friday": [ [ "8:30", "16:30" ] ],
+          "thursday": [ [ "8:30", "16:30" ] ],
+          "wednesday": [ [ "8:30", "16:30" ] ],
+          "monday": [ [ "8:30", "16:30" ] ]
+        },
+        "hours_display": "Mon-Fri 8:30-16:30; Sat 9:00-16:00; Sun 9:00-14:30",
+        "latitude": -29.768107,
+        "locality": "Durban",
+        "longitude": 31.004558,
+        "name": "SHF - Sutherlands Home Furnishing",
+        "postcode": "4001",
+        "region": "KwaZulu-Natal",
+        "tel": "031 569 6196",
+        "website": "http://www.sutherlands.co.za/"
+      }
+    ],
+    "included_rows": 20
+  }
+}

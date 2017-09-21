@@ -1,0 +1,56 @@
+﻿@model wendy_properties_VA_WEBUI.Models.ContactVM
+@{
+    ViewBag.Title = "Wendy Properties | Add Contact";
+}
+
+<h2>New Contact</h2>
+<form method="post" action="AddContact">
+    <table>
+        <tr>
+            <td><b>First Name:  </b></td>
+
+            <td>
+                @Html.TextBoxFor(c => c.FirstName,
+                    new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td><b>Last Name: </b></td>
+            <td>
+                @Html.TextBoxFor(c => c.LastName,
+                    new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td><b>Email: </b></td>
+            <td>
+                @Html.TextBoxFor(c => c.EmailAddress,
+                    new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td><b>Agent: </b></td>
+            <td>
+                @Html.DropDownListFor(
+                    c => c.Agent, Model.Agents,
+                    "Select...")
+            </td>
+        </tr>
+        <tr>
+            <td><b>Message: </b></td>
+            <td>
+                @Html.TextAreaFor(c => c.Message,
+                    new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Save" />
+            </td>
+            <td>
+                <input type="button" value="Cancel"
+                       onclick="window.location.href = '@Url.Action("Index", "Home")';" />
+            </td>
+        </tr>
+    </table>
+</form>
